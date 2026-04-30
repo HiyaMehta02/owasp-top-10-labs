@@ -23,44 +23,79 @@ For this project, I used social engineering to sneak into a real networking even
 * Download Docker Desktop
 * Run the following commands:
 
-![Image 1](media/image1.png)
+![Commands to start the webapp](media/commands-to-start-webapp.png)
 
 * Go to `http://localhost:80`
 * Login as first user
 
 **2. Click through every page**
 * **Home**
+![Home Page](media/home-page.png)
   * All boxes (Grades, Enrollment, Messages, Documents, and AI Academic Advisor) are clickable.
+![Image of grade button](media/grade-button.png)
   * Student info is displayed on the screen.
+![Image of student info](media/student-info.png)
   * There is a nav bar at the top of the screen.
+![Image of nav bar](media/nav-bar.png)
 * **Grades**
+![Grades Page](media/grades.png)
   * All class and grade information is displayed on the screen.
+![Image of class and grade info](media/class-grade-info.png)
   * There is a search bar (text entry) which allows you to search by course name or code.
+![Image of search with letter](media/search-letter.png)
+![Image of search with course number](media/search-number.png)
   * The student id is shown.
+![Image of student name and id](media/name-id-number.png)
+![Image of id number](media/view-id-number.png)
   * There is a refresh button for the page.
+![Image of refresh button](media/refresh.png)
 * **Enrollment**
+![Image of enrollment page](media/enrollment-page.png)
   * Enrolled courses are displayed with all course information.
+![Image of enrolled courses](media/enrolled-courses.png)
     * There is a drop button.
+![Image of drop button](media/drop-button.png)
   * There is a search bar to select a course to enroll in.
+![Image of search bar for course](media/search-bar-enrollment.png)
     * Drop down to search course name.
+![Image of dropdown to search courses](media/dropdown-for-courses.png)
     * Text entry box to select quarter and year of enrollment.
+![Image of text entry for quarter selection](media/text-entry-quarter.png)
   * Search bar (text entry) to search through enrolled courses.
+![Image of search bar for enrolled courses](media/search-bar-enrolled-courses.png)
 * **Messages**
+![Image of messages page](media/messages-page.png)
   * Allows the user to send a message.
+![Image of message sending system](media/message-sending-system.png)
     * Dropdown to select a recipient.
+![Image of dropdown to select recipient](media/select-recipient.png)
     * Text box to write the subject of message.
+![Image of subject text box](media/subject-text-box.png)
     * Text box to write message itself (allows HTML for formatting).
+![Image of message content text box](media/message-content-text-box.png)
   * Inbox with all emails sent to user.
+![Image of inbox](media/inbox.png)
   * A sent table that contains all emails sent by user.
+![Image of sent table](media/sent-table.png)
 * **Advising Notes**
+![Image of advising notes page](media/advising-notes-page.png)
   * Notes are displayed with information about student, the note, and date/time.
+![Image of student notes](media/student-notes.png)
 * **Documents**
+![Image of documents page](media/documents-page.png)
   * There is a banner to upload a document.
+![Image of upload document banner](media/upload-document-banner.png)
     * Dropdown to select document type.
+![Image of document selection dropdown](media/document-selection-dropdown.png)
     * File upload button to upload file.
+![Image of file upload button](media/file-upload-button.png)
+![Image of file upload](media/file-upload.png)
   * Uploaded files show file name, file type, data/time of upload.
+![Image of uploaded files](media/uploaded-files.png)
     * Download button.
+![Image of download button](media/download-button-documents.png)
     * Delete button.
+![Image of delete button](media/delete-button-document.png)
 * **AI Advisor**
   * Text box to ask question to the AI.
   * Drop down to allow user to select a document to summarize (uploaded from documents page).
