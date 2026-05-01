@@ -1,5 +1,4 @@
-# Week 3 Lab — Cryptography: Hashing Passwords and Enforcing HTTPS
-**Hiya Mehta** **4/23/26**
+# Lab Report: Cryptography
 
 ### Introduction and Materials
 In this lab, I will be using my computer to strengthen the security of a web application by fixing vulnerabilities I discovered in previous weeks. I'll be working with tools like bcrypt, OpenSSL, and Wireshark to move away from plaintext data and toward a more secure, encrypted environment. I hope to better understand how securing data while it travels and scrambling it while it's stored actually work to protect user info from hackers.
